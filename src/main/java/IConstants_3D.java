@@ -6,14 +6,14 @@ public class IConstants_3D {
 
 	
 //	/3D_NoC/src/main/resources/nocSimOutput.txt
-	public static String PARAM_FILE = "/3D_NoC/src/main/resources/nocSimOutput.txt";
+	public static String PARAM_FILE = "src/main/resources/nocSimParameter.txt";
 //	public static String PARAM_FILE = "nocSimParameter.txt";
 
 	
-	public static String OUT_FILE = "/3D_NoC/src/main/resources/nocSimOutput.txt";
+	public static String OUT_FILE = "src/main/resources/nocSimOutput.txt";
 
 	
-	public static String TRACE_FILE = "nocSimTrace.txt";
+	public static String TRACE_FILE = "src/main/resources/nocSimTrace.txt";
 
 
 	public static int HEADER_FLIT = 0;
